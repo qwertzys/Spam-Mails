@@ -41,6 +41,9 @@ https://www.kaggle.com/datasets/venky73/spam-mails-dataset
 
 ---
 
+## Kernel Version
+- 3.11.4
+
 ## Data Preprocessing
 The following preprocessing steps were performed:
 - Lowercasing text
@@ -88,8 +91,3 @@ pip install -r requirements.txt
 
 ### 3. Run Notebook
 Open Jupyter Notebook or Google Colab and run the notebook.
-
----
-
-## Author
-Gregory Triananda
